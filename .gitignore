@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.Renviron
+.Rhistory
+.RData
+*-keys.csv
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
